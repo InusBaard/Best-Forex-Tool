@@ -1,1 +1,11 @@
-
+├── index.html
+├── terms.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── images/
+│   └── placeholder.jpg
+├── sitemap.xml
+├── robots.txt
+└── README.md
